@@ -1,0 +1,4 @@
+:HL["/noam/_next/static/chunks/21w2pb0wfde1d.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Inter+Tight:wght@400;500;600;700;800&display=swap","style"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"mbIf3npy8hu2PabKiknhP","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
